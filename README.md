@@ -4,6 +4,10 @@ Making Decisions With Machine Learning
 ## WHAT!?
 Yes. This is a Neural Network using Machine Learning to help you make the best decisions possible.
 
+## What You Need
+* Numpy
+* Python 2.7
+
 ## Why?
 As much as humans like to imagine ourselves to be rational creatures, observations are continually disproving that hypothesis. Why do people respond differently in certain situations? Why do some people choose to do good things, bad things, or things that might harm them? How can we determine how 'rational' a particular individual is? What is the cut off for sanity? And perhaps, most importantly, how can you alter the internal algorithms of individuals to improve their lives? While these questions are well outside the scope of this program's current capabilities, it is my hope that this script, and systems like this can be modified to model the cognitive biases that cause individuals to react in manners that are neither individualisticly nor group beneficial.
 
